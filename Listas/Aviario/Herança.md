@@ -1,0 +1,1 @@
+Criar 2 sabiás e 2 avestruz, e imprimi-los
